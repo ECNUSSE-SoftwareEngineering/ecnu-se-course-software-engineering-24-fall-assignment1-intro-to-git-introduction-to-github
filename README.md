@@ -38,8 +38,8 @@ In this course, you will:
 3. Open a pull request
 4. Merge your pull request
 
-# Now, let's get started with the first step!
-# After completing the action for each step, wait for a few seconds, and the next step will be displayed.
+### Now, let's get started with the first step!
+### After completing the action for each step, wait for a few seconds, and the next step will be displayed.
 
 ## Step 1: Create a branch
 
