@@ -21,6 +21,26 @@ _Get started using GitHub in less than an hour._
   Encourage users to open new tabs for steps!
 -->
 
+## Welcome
+
+People use GitHub to build some of the most advanced technologies in the world. Whether you’re visualizing data or building a new game, there’s a whole community and set of tools on GitHub that can help you do it even better. GitHub Skills’ “Introduction to GitHub” course guides you through everything you need to start contributing in less than an hour.
+
+- **Who is this for**: New developers, new GitHub users, and students.
+- **What you'll learn**: We'll introduce repositories, branches, commits, and pull requests.
+- **What you'll build**: We'll make a short Markdown file you can use as your [profile README](https://docs.github.com/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme).
+- **Prerequisites**: None. This course is a great introduction for your first day on GitHub.
+- **How long**: This course takes less than one hour to complete.
+
+In this course, you will:
+
+1. Create a branch
+2. Commit a file
+3. Open a pull request
+4. Merge your pull request
+
+# Now, let's get started with the first step!
+# After completing the action for each step, wait for a few seconds, and the next step will be displayed.
+
 ## Step 1: Create a branch
 
 _Welcome to "Introduction to GitHub"! :wave:_
